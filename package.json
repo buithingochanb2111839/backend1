@@ -1,0 +1,23 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buithingochanb2111839/backend1.git"
+  },
+  "author": "Han B2111839",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buithingochanb2111839/backend1/issues"
+  },
+  "homepage": "https://github.com/buithingochanb2111839/backend1#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
